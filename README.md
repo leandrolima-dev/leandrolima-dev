@@ -35,15 +35,3 @@
   <a href = "mailto:lleandrorj@gmail.com"><img style="border-radius:10px;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div><br>
 
-<a href="https://github.com/LeandroLima-19/projeto-devLinks-rocketseat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroLima-19&repo=projeto-devLinks-rocketseat&theme=apprentice" />
-</a>
-<a href="https://github.com/LeandroLima-19/maratona-discover">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroLima-19&repo=maratona-discover&theme=apprentice" />
-</a>
-<a href="https://github.com/LeandroLima-19/dio-trilha-java-basico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroLima-19&repo=dio-trilha-java-basico&theme=apprentice" />
-</a>
-<a href="https://github.com/LeandroLima-19/challenge1_oracle_next_education">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroLima-19&repo=challenge1_oracle_next_education&theme=apprentice" />
-</a>
