@@ -39,7 +39,7 @@
 <a href="https://twitter.com/LeandroLima_19" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/leandro-lima19/" target="_blank">
+<a href="https://www.linkedin.com/in/in-leandrolima/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/leandro_lima_19/" target="_blank">
