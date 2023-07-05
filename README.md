@@ -9,11 +9,11 @@
 ##
 
 <div style="display: inline_block"> 
-<a href="https://github.com/LeandroLima-19">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LeandroLima-19&show_icons=true&theme=apprentice" alt="Leandro Lima's Github stats"/>
+<a href="https://github.com/leandrolima-dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=leandrolima-dev&show_icons=true&theme=apprentice" alt="Leandro Lima's Github stats"/>
 </a>
-<a href="https://github.com/LeandroLima-19">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLima-19&layout=compact&&theme=apprentice" alt="Leandro Lima's Language stats"/>
+<a href="https://github.com/leandrolima-dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolima-dev&layout=compact&&theme=apprentice" alt="Leandro Lima's Language stats"/>
 </a>
 </div>
 
