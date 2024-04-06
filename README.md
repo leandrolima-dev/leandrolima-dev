@@ -18,37 +18,33 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leandro-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Leandro-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leandro-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div><br>
-  
- <!--
-<div> 
-  <a href="https://www.linkedin.com/in/leandro-lima19/" target="_blank"><img style="border-radius:10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/LeandroLima-19/" target="_blank"><img width="98" style="border-radius:10px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/leandro_lima_19/" target="_blank"><img style="border-radius:10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lleandrorj@gmail.com"><img style="border-radius:10px;" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div><br>
--->
 
-## Contatos
+  ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React.js Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+  ![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>
+  ![C#](https://img.shields.io/badge/csharp-%230078D7.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+  ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+  ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<a href="https://twitter.com/LeandroLima_19" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/in-leandrolima/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/leandro_lima_19/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href= "mailto:lleandrorj@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-</p>
+</div><br>
+
+## contatos
+
+<div>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-leandrolima/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lleandrorj@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandro_lima_19/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeandroLima_19)
+
+</div>
